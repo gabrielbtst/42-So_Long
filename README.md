@@ -1,5 +1,5 @@
 # 42-So_Long
-Sobre
+*Sobre*
 
 so_long é um projeto em C desenvolvido com MiniLibX, focado em arquitetura de software, validação de dados e controle de estado.
 O programa carrega mapas .ber, valida rigorosamente sua estrutura e regras, garante a existência de um caminho válido e executa a lógica do jogo por meio de um loop de eventos.
